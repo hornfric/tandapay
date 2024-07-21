@@ -6,8 +6,5 @@ public class B2CPaymentRequest {
 	
 	
 	
-	public JSONObject requestPaymentFromDarajaAPI(String jsonObject) {
-		
-	}
-
+	
 }
